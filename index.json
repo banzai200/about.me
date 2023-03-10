@@ -1,117 +1,351 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "John Doe",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
-    "url": "http://johndoe.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "name": "Wesley Putumuju",
+    "label": "DevOps Engineer",
+    "image": "",
+    "email": "guedes48@gmail.com",
+    "phone": "",
+    "url": "https://github.com/banzai200",
+    "summary": "I started working with Linux professionally in 2014, acquiring knowledge and experience in support, system customization, embedded systems, server deployment and administration, and all kind of work involved in Linux service provisioning\n\nWorking with a wide range of distributions and integration of Linux-based systems with other operating systems, as well as absorbing knowledge of new technologies and actively doing DevOps and Linux/Unix consulting in deployment and support of database and application server infrastructures, security, environment integration and virtualization.\n\nGraduated in Computer Science with several years of experience in information technology, specialist in Linux, Cloud with experience and focus on DevOps and automation.\n\nExperience in defining, building and operating resilient and scalable infrastructures, with high volume of information/transactions, reducing operational work through automation (IaC) and actively fostering DevOps culture",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "countryCode": "BR",
+      "address": ""
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
-    }]
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "wesley-putumuju",
+        "url": "https://www.linkedin.com/in/wesley-putumuju/"
+      }
+    ]
   },
-  "work": [{
-    "name": "Company",
-    "position": "Developer",
-    "url": "http://somecompany.com",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Lead Developer of Innovation hub"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "http://organization.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.ph",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "score": "4.0",
-    "courses": [
-      "WEB101 - Web Development",
-      "SYS123 - Object Oriented Programming"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2020-11-01",
-    "awarder": "Company",
-    "summary": "Programmer of the Year 2020"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2020-10-01",
-    "url": "http://publication.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Electronics",
-    "keywords": [
-      "PCB",
-      "IOT"
-    ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "projects": [
+  "work": [
     {
-      "name": "Project Name",
-      "description": "Description...",
-      "highlights": [ 
-        "COVID19 Patient Tracker"
-      ],
-      "keywords": [
-        "PHP", "NodeJS", "Javascript"
-      ],
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://project.example.com",
-      "roles": [ 
-        "Lead Developer", "Designer"
-      ],
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "entity": "Facebook, Google, Microsoft, Amazon",
-      "type": "web application"
+      "name": "Mobileum",
+      "position": "Cloud Specialist",
+      "startDate": "2022-08-31",
+      "endDate": "2023-02-28",
+      "highlights": [],
+      "summary": "Trabalhei como especialista interno em nuvem para sistemas de detecção de fraudes em telecomunicações de alta demanda para grandes empresas de telecomunicações na Europa (como T-Mobile Netherlands, Orange Romenia, Telefonica Spain).\n\nMinhas responsabilidades incluíam:\n\nColaborar com equipes multifuncionais, incluindo desenvolvedores, engenheiros de rede e gerentes de projeto, para garantir a entrega tranquila de projetos em nuvem.\n\nMonitorar e manter a saúde e desempenho da infraestrutura de nuvem, identificando e resolvendo quaisquer problemas que surgissem.\n\nProjetar e implementar uma infraestrutura escalável, altamente disponível e economicamente viável em nuvem para suportar as crescentes necessidades de negócios da empresa.\n\nImplementar medidas de segurança para atender aos padrões da indústria e proteger dados sensíveis do cliente.",
+      "url": "https://www.linkedin.com/company/mobileum/"
+    },
+    {
+      "name": "Jumia Group",
+      "position": "Site Reliability Engineer",
+      "startDate": "2022-04-30",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "I worked as an SRE at one of the most influential E-Commerce companies in Africa. My responsibilities included: Monitoring and troubleshooting Kubernetes Maintenance and monitoring of CI/CD Scaling cloud projects Implementation of new functions using tools such as Ansible and Helm.",
+      "url": "https://www.linkedin.com/company/jumia-group/"
+    },
+    {
+      "name": "RedFox Digital Solutions",
+      "position": "DevOps Engineer",
+      "startDate": "2020-08-31",
+      "endDate": "2022-03-31",
+      "highlights": [],
+      "summary": "I was responsible for the following tasks:\n\nImplementing and maintaining DevOps processes for Linux servers, ensuring that the servers were properly configured and optimized to support business needs.\n\nManaging infrastructure using Infrastructure-as-Code (IAC) methodology, ensuring that the infrastructure was consistently maintained and updated to meet evolving business requirements.\n\nOverseeing Continuous Integration/Continuous Deployment (CI/CD) processes to ensure that software changes were delivered to production efficiently and reliably.\n\nLeading efforts in creating and modifying products as needed, working closely with cross-functional teams to ensure that products met business requirements.\n\nDirecting cloud projects utilizing Amazon Web Services (AWS) and Google Cloud Platform (GCP), while maintaining accountability for all aspects of project management. This included project planning, resource allocation, risk management, and stakeholder communication.",
+      "url": "https://www.linkedin.com/company/redfoxdigitalsolutions/",
+      "location": "São Paulo, São Paulo, Brazil"
+    },
+    {
+      "name": "RHS Licitações",
+      "position": "Linux System Administrator",
+      "startDate": "2019-07-31",
+      "endDate": "2022-12-31",
+      "highlights": [],
+      "summary": "I was responsible for the administration of all Linux servers across the organization. This involved overseeing the management of CentOS servers and their associated services, including Networking Management and Administration, KVM/ESXi Virtualization, User Management, NAS Configuration and Management, Bash Scripting, Zabbix Monitoring, and other General Linux Services.\n\nIn this role, I was responsible for ensuring that the Linux servers were properly configured and optimized to support the company's business objectives. This involved monitoring server performance, identifying and addressing issues in a timely manner, and working closely with other members of the technical team to ensure that the Linux server environment was up-to-date with the latest security patches and updates.\n\nIn addition to my technical responsibilities, I also played a critical role in supporting the company's strategic objectives. This involved working closely with business stakeholders to understand their requirements and ensure that the Linux server environment was able to meet those needs. I also played a key role in the development of IT policies and procedures, ensuring that they were aligned with industry best practices and met regulatory requirements.",
+      "url": "https://www.linkedin.com/company/rhs-licita%C3%A7%C3%B5es/",
+      "location": "São Paulo, Brazil"
     }
-  ]
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Faculdades Metropolitanas Unidas",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2017-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker Products",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arch Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Server Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Domain Name System (DNS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firewalls",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon EBS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure as code (IaC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CentOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Deployment",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon VPC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Kubernetes Service (AKS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Calendar",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kube",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Kubernetes Engine (GKE)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubeflow",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon EKS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon EC2",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitFlow",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure as a Service (IaaS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Servers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon S3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Relational Database Service (RDS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub Atom",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon CloudWatch",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "pt",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Portuguese"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
